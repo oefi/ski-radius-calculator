@@ -1,4 +1,5 @@
 # Ski Radius Calculator
+![ski](https://github.com/user-attachments/assets/980f5e04-e0a3-417a-a004-99d0811909a0)
 
 Interactive visualization of ski geometry and turn radius physics.
 
